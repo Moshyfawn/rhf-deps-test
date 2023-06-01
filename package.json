@@ -8,7 +8,7 @@
     "@testing-library/user-event": "^13.2.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-hook-form": "^7.44.2",
+    "react-hook-form": "https://pkg.csb.dev/react-hook-form/react-hook-form/commit/9bfdde71/react-hook-form/_pkg.tgz",
     "react-scripts": "4.0.1",
     "web-vitals": "^2.1.0"
   },
